@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionvpdate",
+        "uuid": 16377848,
+        "checksum": "dsgy9"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
